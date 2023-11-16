@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(images/fabio-oyXis2kALVg-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 18px;
+  color: white;
+}
