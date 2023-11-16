@@ -43,7 +43,7 @@ header {
   color: black;
 }
 
-#nav-links a::before {
+#nav-links a::after {
   content: "";
   display: block;
   width: 0%;
@@ -56,6 +56,6 @@ header {
   transition: all ease-in-out 500ms;
 }
 
-#nav-links a:hover::before {
+#nav-links a:hover::after {
   width: 100%;
 }
