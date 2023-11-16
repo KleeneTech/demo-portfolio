@@ -13,11 +13,13 @@ body {
   color: white;
 }
 
-#my-photo {
+#my-photo img {
   width: 200px;
   border-radius: 15%;
   float: right;
-  margin-top: 10px;
+  position: relative;
+  top: 0;
+  bottom: 30px;
 }
 
 header {
