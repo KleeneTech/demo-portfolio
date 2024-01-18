@@ -76,5 +76,28 @@ header {
 #about {
   width: 100%;
   height: 500px;
-  border: 1px solid white;
 }
+
+#phone-list img {
+  width: 40%;
+  height: 200px;
+}
+
+#phone-list .div {
+  text-decoration: none;
+  color: white;
+  text-align: left;
+}
+
+h1 {
+  text-align: center;
+}
+
+/* .grid {
+  display: grid;
+  width: 200px;
+  height: 200px;
+  gap: 20px;
+  grid-template-areas: "a a";
+  grid-auto-columns: 200px;
+} */
